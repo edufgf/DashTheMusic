@@ -1,0 +1,4 @@
+LENDO...
+Seconds: 40 Miliseconds: 351
+Seconds: 40 Miliseconds: 799
+Seconds: 42 Miliseconds: 774

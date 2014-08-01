@@ -1,0 +1,7 @@
+LENDO...
+Seconds: 36 Miliseconds: 126
+Seconds: 36 Miliseconds: 654
+Seconds: 37 Miliseconds: 106
+Seconds: 37 Miliseconds: 558
+37 646
+Seconds: 45 Miliseconds: 109
